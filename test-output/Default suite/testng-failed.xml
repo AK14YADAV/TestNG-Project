@@ -10,10 +10,7 @@
           <include name="SetUpExcel"/>
           <include name="TC01_LoginFailureTest"/>
           <include name="TC05_LoginFailureTest"/>
-          <include name="TC03_LoginSuccessTest"/>
-          <include name="TC02_LoginSuccessTest"/>
           <include name="TearDown"/>
-          <include name="TC04_LoginSuccessTest"/>
           <include name="SetUpDriver"/>
           <include name="CloseExcel"/>
         </methods>

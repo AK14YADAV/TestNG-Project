@@ -28,7 +28,7 @@ public class LoginPage {
 	@FindBy(id = "remember-me")
 	WebElement RememberMe;
 	
-	@FindBy(name = "btn_login")
+	@FindBy(name = "btnlogin")
 	WebElement LoginBtn;
 	
 	@FindBy(className = "error_msg")
